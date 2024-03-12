@@ -4,6 +4,9 @@ Thie project is a data warehouse by Paulina R and is a part od Data Engineering 
 The Sparkify startup is seeking to analyze the data they have gathered from their new music streaming app. The analysis team's main focus is understanding user listening habits and the songs they prefer. However, the current data storage, consisting of CSV files in a directory, lacks an efficient querying method to generate the desired results.
 To address this issue, Sparkify is looking for a data engineer to develop an Apache Cassandra database. This database should enable the execution of queries on song play data, allowing the analytics team to obtain the necessary insights. 
 
+# Data Processing
+![Cassandra_NoSQL_data_processing](https://github.com/paulinaruda/no_sql_data_modeling_apache_cassandra/assets/84568114/7e174b38-4789-49b5-ac69-4850045a5c15)
+
 # Implementation
 
 ### Part I: Files Pre-Processing
