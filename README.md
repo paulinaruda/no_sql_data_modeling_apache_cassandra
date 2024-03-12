@@ -1,6 +1,6 @@
 # Data Modeling with Apache Cassandra
 
-Thie project is a data warehouse by Paulina R and is a part od Data Engineering Nanodegree with Udacity.<br>
+Thie project is a project by Paulina R and is a part od Data Engineering Nanodegree with Udacity.<br>
 The Sparkify startup is seeking to analyze the data they have gathered from their new music streaming app. The analysis team's main focus is understanding user listening habits and the songs they prefer. However, the current data storage, consisting of CSV files in a directory, lacks an efficient querying method to generate the desired results.
 To address this issue, Sparkify is looking for a data engineer to develop an Apache Cassandra database. This database should enable the execution of queries on song play data, allowing the analytics team to obtain the necessary insights. 
 
